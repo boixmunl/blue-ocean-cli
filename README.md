@@ -1,4 +1,3 @@
-```plaintext
 # Blue Ocean CLI
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://example.com)
